@@ -1,4 +1,4 @@
-# 自用脚本 for 青龙面板
+# 自用脚本 for 青龙面板脚本项目
 
 [![Node.js CI](https://github.com/hex-ci/smzdm_script/actions/workflows/node.js.yml/badge.svg)](https://github.com/hex-ci/smzdm_script/actions/workflows/node.js.yml)
 
@@ -46,7 +46,7 @@ ql repo https://github.com/hex-ci/smzdm_script.git "smzdm_" "" "env.js|bot.js|se
 
 #### 抓包教程
 
-以下教程请大家自行尝试，本人没有亲自尝试，如有问题可以进群交流。
+以下教程请大家自行尝试，本人没有亲自尝试
 
 * https://www.jianshu.com/p/5e5524868442
 * https://www.zqh.plus/2022/03/19/Android-Capture/
@@ -69,11 +69,8 @@ ql repo https://github.com/hex-ci/smzdm_script.git "smzdm_" "" "env.js|bot.js|se
 
 ## 交流群
 
-https://t.me/smzdm_script
+https://t.me/yangchong99
 
-## 推荐🐔场
-
-自用🐔场，稳定，线路多，速度快，[点这里注册](https://xs-us.xyz/register?code=GMsubu2k)
 
 ## 其它说明
 
